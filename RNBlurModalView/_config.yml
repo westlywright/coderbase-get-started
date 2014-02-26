@@ -8,7 +8,7 @@ title: Rn Blur Modal View
 description: Add depth to your alerts.
 homepage: 
 languages: [objectivec]
-visible: false
+visible: true
 
 # 'Visible: false' means it will remain in your repository,
 # but will not be visible on your profile. However, if the posts within this project
