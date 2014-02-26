@@ -1,0 +1,28 @@
+
+# Your name to be displayed on your profile
+
+Name: Westly Wright
+
+# The following three options specify
+# a madlibs-style description of yourself.
+# I ____________  at ____________________.
+# I like ________________________________.
+# No need for periods, we'll add them :)
+
+I: 
+at: Zefr
+I like: 
+
+# Add your twitter handle to display your most 
+# recent tweet and link to your twitter account.
+# Your twitter account is the only contact information 
+# visible to the public.
+
+Twitter: 
+
+# Want your Coderbase.io profile to resolve on your own domain?
+# Enter your domain here e.g. seancoleman.net or www.seancoleman.net
+# and then create a CNAME record with your DNS provider 
+# pointing to coderbase.herokuapp.com
+
+Domain:
